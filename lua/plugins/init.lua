@@ -5,6 +5,7 @@ return {
   { import = "plugins.treesitter" },
   { import = "plugins.bufferline" },
   { import = "plugins.cmp" },
+  { import = "plugins.supermaven" },
   {
     "dsznajder/vscode-es7-javascript-react-snippets",
     dependencies = { "L3MON4D3/LuaSnip" },
